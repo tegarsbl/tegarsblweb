@@ -71,7 +71,6 @@ head:
   - - meta 
     - name: google-site-verification
       content: 32zri4MdG_JODdbOOGyZr6tKUjevW3-c6b9JXF31DzE
-
   - - link
     - rel: icon
       type: image/svg
