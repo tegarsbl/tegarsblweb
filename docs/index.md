@@ -68,6 +68,10 @@ head:
   - - meta
     - name: twitter:card
       content: https://raw.githubusercontent.com/tegarsbl/tegarsblweb/main/docs/public/banner.jpg
+  - - meta 
+    - name: google-site-verification
+      content: 32zri4MdG_JODdbOOGyZr6tKUjevW3-c6b9JXF31DzE
+
   - - link
     - rel: icon
       type: image/svg
